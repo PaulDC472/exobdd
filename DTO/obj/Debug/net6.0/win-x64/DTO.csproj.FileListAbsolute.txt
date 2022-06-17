@@ -1,0 +1,12 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\bin\Debug\net6.0\win-x64\DTO.deps.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\bin\Debug\net6.0\win-x64\DTO.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\bin\Debug\net6.0\win-x64\DTO.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.csproj.AssemblyReference.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.AssemblyInfoInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.AssemblyInfo.cs
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\refint\DTO.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\DTO.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\DTO\obj\Debug\net6.0\win-x64\ref\DTO.dll

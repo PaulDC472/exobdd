@@ -1,0 +1,42 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\ApplicationLayer\bin\Debug\net6.0\CrossCutting.pdb
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\CrossCutting.dll
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\Entities.dll
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\Entities.pdb
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\CrossCutting.pdb
+C:\tmp\WebApplication2\ApplicationLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CopyComplete
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\tmp\WebApplication2\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll

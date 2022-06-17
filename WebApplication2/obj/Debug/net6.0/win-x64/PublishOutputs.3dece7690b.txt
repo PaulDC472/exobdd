@@ -1,0 +1,11 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\appsettings.Development.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\appsettings.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\WebApplication2.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\ApplicationLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\DomainLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\DTO.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\InfrastructureLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\CrossCutting.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\Entities.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\win-x64\publish\WebApplication2.exe

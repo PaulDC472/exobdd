@@ -1,0 +1,38 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.deps.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfo.cs
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CopyComplete
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\refint\InfrastructureLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\ref\InfrastructureLayer.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\CrossCutting.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.runtimeconfig.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.genruntimeconfig.cache
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.deps.json
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.runtimeconfig.json
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\CrossCutting.dll
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\Entities.dll
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\CrossCutting.pdb
+C:\tmp\WebApplication2\InfrastructureLayer\bin\Debug\net6.0\Entities.pdb
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfo.cs
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CopyComplete
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.dll
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\refint\InfrastructureLayer.dll
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.pdb
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.genruntimeconfig.cache
+C:\tmp\WebApplication2\InfrastructureLayer\obj\Debug\net6.0\ref\InfrastructureLayer.dll

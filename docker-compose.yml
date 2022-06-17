@@ -1,0 +1,31 @@
+version: "3.9"
+services:
+  myapp:
+    build: .
+    ports:
+      - "8080:80"
+    links:
+      - mysql
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  mysql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 1433:1433
+#    volumes:
+#      - ~/apps/mssql/data:/var/lib/mssqlql/data
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=yourStrong(!)Password
+    healthcheck:
+      test: /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "$${SA_PASSWORD}" -Q "SELECT 1" -b -o /dev/null
+      interval: 10s
+      timeout: 3s
+      retries: 10
+      start_period: 10s
+  
+  
+  

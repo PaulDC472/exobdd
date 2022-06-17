@@ -1,0 +1,12 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\win-x64\CrossCutting.deps.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\win-x64\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\win-x64\CrossCutting.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.AssemblyInfo.cs
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\refint\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\CrossCutting.pdb
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\obj\Debug\net6.0\win-x64\ref\CrossCutting.dll

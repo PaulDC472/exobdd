@@ -1,0 +1,3 @@
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\publish\CrossCutting.dll
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\publish\CrossCutting.deps.json
+C:\Users\Paul DA CRUZ\source\repos\WebApplication2\CrossCutting\bin\Debug\net6.0\publish\CrossCutting.pdb
